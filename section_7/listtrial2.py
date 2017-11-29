@@ -1,5 +1,6 @@
 #/usr/bin/env python
 
+# declare a list
 even_list = [2, 4, 6, 8]
 another_even_list = even_list
 
